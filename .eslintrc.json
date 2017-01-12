@@ -2,6 +2,7 @@
     "extends": "google",
     "installedESLint": true,
     "rules": {
-      "no-var": 0
+      "no-var": 0,
+      "require-jsdoc": 0
     }
 }
