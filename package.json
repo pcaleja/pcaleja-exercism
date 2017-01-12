@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/pcaleja/pcaleja-exercism/issues"
   },
-  "homepage": "https://github.com/pcaleja/pcaleja-exercism#readme"
+  "homepage": "https://github.com/pcaleja/pcaleja-exercism#readme",
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-google": "^0.7.1"
+  }
 }
