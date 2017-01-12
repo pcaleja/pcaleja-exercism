@@ -1,0 +1,19 @@
+{
+  "name": "pcaleja-exercism",
+  "version": "1.0.0",
+  "description": "Code exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcaleja/pcaleja-exercism.git"
+  },
+  "author": "Philip Caleja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcaleja/pcaleja-exercism/issues"
+  },
+  "homepage": "https://github.com/pcaleja/pcaleja-exercism#readme"
+}
